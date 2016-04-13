@@ -12,6 +12,9 @@ gem 'turbolinks'
 gem 'jbuilder', '~> 2.0'
 gem 'sdoc', '~> 0.4.0', group: :doc
 
+# 1. add the i18m-docs gem
+gem 'i18n-docs'
+
 group :development, :test do
   gem 'byebug'
 end
